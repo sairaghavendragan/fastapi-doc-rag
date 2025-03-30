@@ -1,0 +1,6 @@
+google-generativeai
+haystack-ai
+sentence-transformers
+beautifulsoup4
+python-dotenv
+requests
